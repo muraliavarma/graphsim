@@ -1,5 +1,5 @@
-var NUM_STEPS = 1000;
-var TIME_STEP = 1;
+var NUM_STEPS = 20;
+var TIME_STEP = 10;
 
 init = function() {
 
